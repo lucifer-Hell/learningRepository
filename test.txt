@@ -1,0 +1,2 @@
+this is supposed to be a test file for 
+testing c file pointer 
